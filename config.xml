@@ -1,17 +1,21 @@
-    <?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns   = "http://www.w3.org/ns/widgets"
-        xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.fernandoruizrico.calculator"
-        versionCode = "1"
-        version     = "0.0.1" >
-      <name>Calculator!</name>
-      <description>
-          A simple calculator.
-      </description>
-      <author href="https://fernandoruizrico.com" email="fernando@iessanvicente.com">
-          Fernando Ruiz Rico
-      </author>
-      <access origin="*" />
-      <plugin name="cordova-plugin-whitelist" />
-      <plugin name="cordova-plugin-vibration" />
-    </widget>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.fernandoruizrico.calculator"
+    versionCode = "1"
+    version     = "0.0.1" >
+
+  <name>Calculator!</name>
+
+  <description>
+      A simple calculator.
+  </description>
+
+  <author href="https://fernandoruizrico.com" email="fernando@iessanvicente.com">
+      Fernando Ruiz Rico
+  </author>
+
+  <access origin="*" />
+  <plugin name="cordova-plugin-whitelist" />
+  <plugin name="cordova-plugin-vibration" />
+</widget>
