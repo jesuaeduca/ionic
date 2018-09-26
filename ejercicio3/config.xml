@@ -17,5 +17,6 @@
       Hardeep Shoker
   </author>
 
+    <platform name="android" />
     
 </widget>
