@@ -12,7 +12,9 @@ function setStyle() {
     });
 }
 
+
 function setResult(value) {
+    navigator.vibrate(document.getElementById("vibration").value);
     document.getElementById("result").innerHTML = value;
 }
 
