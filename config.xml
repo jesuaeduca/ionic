@@ -5,7 +5,7 @@
     versionCode = "1"
     version     = "0.0.1" >
 
-  <name>Calculator!</name>
+  <name>IONIC Calc</name>
 
   <description>
       A simple calculator.
